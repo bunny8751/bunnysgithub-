@@ -7,7 +7,6 @@ public class Secondproject {
 		System.out.println("this is my second project");
 		System.out.println("hi");
 		System.out.println("one more line in the main method");
-		System.out.println("new change");
 
 	}
 
