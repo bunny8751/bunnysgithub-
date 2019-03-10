@@ -9,6 +9,7 @@ System.out.println("pull your project push your project and change");
 System.out.println("changes under script");
 System.out.println("history updates");
 System.out.println("just fuck it");
+System.out.println("i m just doint it roger that");
 	}
 
 }
